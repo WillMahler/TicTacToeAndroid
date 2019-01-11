@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="reset_button">NEW GAME/\nRESET GAME</string>
+    <string name="toast_winner_is_o">O Won this game!</string>
+    <string name="toast_winner_is_x_">X Won this game!</string>
+    <string name="toast_tie_game">Tie game!</string>
+    <string name="win_title">Player Wins : Computer Wins</string>
+</resources>
